@@ -3,16 +3,15 @@
 > Conteúdo do trabalho de Metodologias Ágeis da matéria de Sistemas de Informação
   - Fatec Jundiaí - Dep. Ary Fossen
 
-> Devido o GitHub ter um limite máximo de 100MB por arquivo, colocamos os
-  arquivos completos (listados abaixo) neste Google Drive:
+> Devido o GitHub ter um **limite máximo** de 100MB **por arquivo**, colocamos os
+  arquivos completos (**listados abaixo**) neste Google Drive:
   
    * [Agile -Google Drive (Pasta Compartilhada)](https://goo.gl/2qo1Ud)
    
-   * Neste repositório você encontra para download rápido, o Slide sem vídeo incorporado,
-     além da parte escrita (documentação dos slides), sem ter que ir no Drive.
+   * _**Neste repositório você encontra para download rápido, o Slide sem vídeo incorporado, além da parte escrita (documentação dos slides).**_
 
 
-> Arquivos contidos no Drive:
+> Arquivos contidos no [Drive](https://goo.gl/2qo1Ud):
 
     — Slide em formato PowerPoint (sem vídeo) - 5MB
     — Slide em formato PowerPoint (com vídeo) - 405MB
