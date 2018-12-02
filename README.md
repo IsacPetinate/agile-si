@@ -7,6 +7,9 @@
   arquivos completos (listados abaixo) neste Google Drive:
   
    * [Agile -Google Drive (Pasta Compartilhada)](https://goo.gl/2qo1Ud)
+   
+   * Neste repositório você encontra para download rápido, o Slide sem vídeo incorporado,
+     além da parte escrita (documentação dos slides), sem ter que ir no Drive.
 
 
 > Arquivos contidos no Drive:
