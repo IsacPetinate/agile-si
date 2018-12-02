@@ -13,16 +13,24 @@
 
 > Arquivos contidos no [Drive](https://goo.gl/2qo1Ud):
 
-    — Slide em formato PowerPoint (sem vídeo) - 5MB
-    — Slide em formato PowerPoint (com vídeo) - 405MB
-    — Slide em formato PDF - 17MB
-
-    — Fonte Play (fonte usada no slide)
-    — Imagens (imagens utilizadas no slide)
-    
-    — Vídeos
-    |— 1º Vídeo: Silicon Valley - Scrum Scene (Áudio PT-BR) - 720p HD - 400MB
-    |— 2º Vídeo: Think Brasil - Rodrigo Giaffredo - Agile (Áudio PT-BR) - 720p HD - 150MB
+    |- Slide em formato PowerPoint (sem vídeo) - 5MB
+    |- Slide em formato PowerPoint (com vídeo) - 405MB
+    |- Slide em formato PDF - 17MB
+    |
+    |- Parte escrita em DOCX - 1MB
+    |
+    |- Fonte
+    |  |-- Play.zip
+    |  |-- Play
+    |     |-- Play-Regular.ttf
+    |     |-- Play-Bold.ttf
+    |
+    |- Imagens
+    |  |-- Vários arquivos de imagens...
+    |
+    |- Vídeos
+    |  |-- 1º Vídeo: Silicon Valley - Scrum Scene (Áudio PT-BR) - 720p HD - 400MB
+    |  |-- 2º Vídeo: Think Brasil - Rodrigo Giaffredo - Agile (Áudio PT-BR) - 720p HD - 150MB
     
 
 
