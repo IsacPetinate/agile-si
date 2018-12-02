@@ -3,8 +3,8 @@
 > Conteúdo do trabalho de Metodologias Ágeis da matéria de Sistemas de Informação
   - Fatec Jundiaí - Dep. Ary Fossen
 
-> Devido o GitHub ter um limite máximo de 100MB por arquivo, colocamos os arquivos
-  completos (listados abaixo) neste Google Drive:
+> Devido o GitHub ter um limite máximo de 100MB por arquivo, colocamos os
+  arquivos completos (listados abaixo) neste Google Drive:
   
    * [Agile -Google Drive (Pasta Compartilhada)](https://goo.gl/2qo1Ud)
 
@@ -19,4 +19,4 @@
     
     — Vídeos
     |— 1º Vídeo: Silicon Valley - Scrum Scene (Áudio PT-BR) - 720p HD - 400MB
-    |— 2º Vídeo: Think Brasil - Giaffredo - Agile (Áudio PT-BR) - 720p HD - 150MB
+    |— 2º Vídeo: Think Brasil - Rodrigo Giaffredo - Agile (Áudio PT-BR) - 720p HD - 150MB
