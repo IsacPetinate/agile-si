@@ -6,7 +6,7 @@
 > Devido o GitHub ter um limite máximo de 100MB por arquivo, colocamos os arquivos
   completos (listados abaixo) neste Google Drive:
   
-    — [Agile - Google Drive](https://goo.gl/2qo1Ud)
+   * [Agile -Google Drive (Pasta Compartilhada)](https://goo.gl/2qo1Ud)
 
 
 > Arquivos contidos no Drive:
