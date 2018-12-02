@@ -6,8 +6,8 @@
 > Devido o GitHub ter um limite máximo de 100MB por arquivo, colocamos os arquivos
   completos (listados abaixo) neste Google Drive:
   
-    - Link Completo: https://drive.google.com/drive/folders/1Nftv8-LDh4d68c-ZWIlJ3wFp_sUyXOc6?usp=sharing
-    - Link Curto: https://goo.gl/2qo1Ud
+    - [Link Completo](https://drive.google.com/drive/folders/1Nftv8-LDh4d68c-ZWIlJ3wFp_sUyXOc6?usp=sharing) : https://drive.google.com/drive/folders/1Nftv8-LDh4d68c-ZWIlJ3wFp_sUyXOc6?usp=sharing
+    - [Link Curto](https://goo.gl/2qo1Ud) : https://goo.gl/2qo1Ud
 
 
 > Arquivos contidos no Drive:
