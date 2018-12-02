@@ -15,6 +15,7 @@
 
     — Slide em formato PowerPoint (sem vídeo) - 5MB
     — Slide em formato PowerPoint (com vídeo) - 405MB
+    — Slide em formato PDF - 17MB
 
     — Fonte Play (fonte usada no slide)
     — Imagens (imagens utilizadas no slide)
@@ -22,3 +23,9 @@
     — Vídeos
     |— 1º Vídeo: Silicon Valley - Scrum Scene (Áudio PT-BR) - 720p HD - 400MB
     |— 2º Vídeo: Think Brasil - Rodrigo Giaffredo - Agile (Áudio PT-BR) - 720p HD - 150MB
+    
+
+
+> Para fazer download, clique no botão verde escrito "Clone or Download" que se encontra acima dos arquivos do repositório, e clique em "Download ZIP", como abaixo:
+    
+![Imgur](https://i.imgur.com/5stiWd9.png)
